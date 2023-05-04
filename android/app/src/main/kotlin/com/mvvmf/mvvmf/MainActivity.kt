@@ -1,0 +1,6 @@
+package com.mvvmf.mvvmf
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
